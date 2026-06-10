@@ -1,0 +1,20 @@
+STOCK PORTFOLIO SUMMARY
+==================================================
+
+AAPL
+  Quantity: 5
+  Price: $189.50
+  Total: $947.50
+
+TSLA
+  Quantity: 2
+  Price: $250.75
+  Total: $501.50
+
+MSFT
+  Quantity: 3
+  Price: $380.90
+  Total: $1142.70
+
+==================================================
+TOTAL PORTFOLIO VALUE: $2591.70
