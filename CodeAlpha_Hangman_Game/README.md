@@ -4,8 +4,4 @@ A console-based implementation of the classic Hangman word guessing game. The pr
 
 Key Features:
 
-Random word selection
-Input validation
-Limited guessing attempts
-Win/Loss detection
-Interactive gameplay experience
+Random word selection, Input validation, Limited guessing attempts, Win/Loss detection, Interactive gameplay experience
