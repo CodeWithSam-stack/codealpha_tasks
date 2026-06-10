@@ -1,0 +1,12 @@
+Contact Information:
+
+Main Email: admin@company.com
+HR Department: hr@company.com
+Support: support@company.com
+
+Personal Contacts:
+John: john.doe@gmail.com
+Jane: jane_smith@yahoo.com
+Test Account: test.user123@domain.co.uk
+
+General: info@example.org

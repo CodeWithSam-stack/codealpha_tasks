@@ -1,0 +1,13 @@
+EXTRACTED EMAILS
+==================================================
+Total Emails: 7
+Date: 2026-06-10 23:51:00.102107
+==================================================
+
+1. admin@company.com
+2. hr@company.com
+3. info@example.org
+4. jane_smith@yahoo.com
+5. john.doe@gmail.com
+6. support@company.com
+7. test.user123@domain.co.uk
